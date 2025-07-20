@@ -11,11 +11,15 @@
 Olá! Me chamo **Michel Doro Remboski** e sou estudante de **Análise e Desenvolvimento de Sistemas**.  
 Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dados**.
 
-📍 Busco oportunidades como desenvolvedor **Python** (Back-end ou Dados)  .
-🎯 Meu foco principal está no mercado financeiro, automação, APIs e banco de dados .
-💼 Fazendo a transição de carreira.
-🌍 Buscando aplicar meus conhecimentos em projetos reais e contribuir com soluções de impacto positivo. 
-🛠️ Também trabalho com **front-end moderno** usando **React + Tailwind CSS**.
+<ul dir="auto">
+<li>🧠 Estudante de Análise e Desenvolvimento de Sistemas</li>]
+<li>🐍 Estudando Python, Pandas e Django para backend e anãlise de dados</li>
+<li>📚 Também possuo conhecimento **front-end** usando **React + Tailwind CSS**.</li>
+<li>🎯 Meu foco principal está no mercado financeiro, automação, APIs e banco de dados.
+<li>💼 Chaveiro em transição de carreira para a tecnologia</li>
+<li>🌍 Buscando aplicar meus conhecimentos em projetos reais e contribuir com soluções de impacto positivo.</li>
+<li>🥋 Paixonado por Jiu-Jitsu, Amantes dos games</li>
+</ul>
 
 ---
 ## 📊 GitHub Stats
@@ -49,7 +53,6 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
 
 ## ⚡ Curiosidades
 
-- 🥋 Paixonado por Jiu-Jitsu
 - 🎓 Estudante dedicado de tecnologia e finanças
 - 🧩 Adoro resolver problemas lógicos e criar soluções eficientes
 - 📚 Estou sempre aprendendo algo novo em Python e web
