@@ -19,12 +19,15 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
 ---
 ## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mremboski&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mremboski&layout=compact&langs_count=8&card_width=200&theme=radical" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=mremboski&theme=radical&card_width=450" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=mremboski&layout=compact&langs_count=8&theme=radical&card_width=450" />
+  </a>
+</div>
+
 
 ### 💻 Linguagens e Frameworks
 
