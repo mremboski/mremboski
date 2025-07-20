@@ -25,8 +25,8 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
 ## 📊 GitHub Stats
 
 <a href="https://github.com/mremboski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mremboski&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true](https://github-readme-stats.vercel.app/api?username=mremboski&show_icons=true&theme=radical)" style="max-width: 100%;">
-<img height="180em" src="https://camo.githubusercontent.com/9892eb3d4ca5e9f5b220bdb85e82f8d7333ec0787838b72ac14d44daa3bee3d8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d766963746f726d656c6b6f72266c61796f75743d636f6d70616374266c616e67735f636f756e743d36267468656d653d7261646963616c26636f756e745f7765696768743d302e30352673697a655f7765696768743d302e303526686964653d706f7765727368656c6c2c626174636866696c652c7368656c6c](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)" data-canonical-src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mremboski&amp;layout=compact&amp;langs_count=6&amp;theme=radical&amp;count_weight=0.05&amp;size_weight=0.05&amp;hide=powershell,batchfile,shell](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)" style="max-width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mremboski&hide_progress=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mremboski&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true](https://github-readme-stats.vercel.app/api?username=mremboski&show_icons=true&theme=radical)" style="max-width: 100%;">
+<img height="180em" src="" data-canonical-src="" style="max-width: 100%;">
 </a>
 
 ### 💻 Linguagens e Frameworks
