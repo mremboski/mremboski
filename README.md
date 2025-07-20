@@ -17,6 +17,9 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
 🛠️ Também trabalho com **front-end moderno** usando **React + Tailwind CSS**
 
 ---
+## 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mremboski&show_icons=true&theme=radical)
 
 ### 💻 Linguagens e Frameworks
 
@@ -29,10 +32,6 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
 ### ⚙️ Ferramentas e Versionamento
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,git,github&perline=10)](https://skillicons.dev)
-
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mremboski&show_icons=true&theme=radical)
 
 ---
 
