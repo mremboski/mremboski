@@ -55,5 +55,5 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,50:302b63,100:24243e&height=200&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Obrigado+por+Acessar+Meu+Perfil%F0%9F%93%9A;Apaixonado+por+tecnologia+e+dados" alt="Typing SVG" />
 </p>
