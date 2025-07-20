@@ -53,7 +53,7 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
 
 ---
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Obrigado+por+Acessar+Meu+Perfil%F0%9F%93%9A;Até+Logo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Obrigado+por+Acessar+Meu+Perfil;Estudante+de+ADS+%F0%9F%93%9A;Ate+Logo" alt="Typing SVG" />
 </p>
+
