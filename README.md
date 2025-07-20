@@ -28,7 +28,7 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
   <a href="https://github.com/mremboski">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mremboski&show_icons=true&theme=radical"/>
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mremboski&hide_progress=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mremboski&hide_progress=true&theme=radical"/>
 </div>
 
 
