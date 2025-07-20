@@ -1,5 +1,5 @@
 
-<!-- Banner animado -->
+
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Michel%20Doro%20Remboski&fontSize=40&fontColor=ffffff&fontAlignY=40"/>
 
 <p align="center">
@@ -8,13 +8,16 @@
 
 ---
 
+
+
 ## 👨‍💻 Sobre mim
 
 Olá! Me chamo **Michel Doro Remboski** e sou estudante de **Análise e Desenvolvimento de Sistemas**.  
 Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dados**.
 
 📍 Busco oportunidades como desenvolvedor **Python** (Back-end ou Dados)  
-🎯 Meu foco principal está no mercado financeiro, automação, APIs e banco de dados  
+🎯 Meu foco principal está no mercado financeiro, automação, APIs e banco de dados 
+🌍 Buscando aplicar meus conhecimentos em projetos reais e contribuir com soluções de impacto positivo 
 🛠️ Também trabalho com **front-end moderno** usando **React + Tailwind CSS**
 
 ---
@@ -22,12 +25,12 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
 ## 🚀 Tecnologias que utilizo
 
 ### 💻 Linguagens e Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ### 🧠 Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -41,37 +44,29 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MichelRemboski&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelRemboski&layout=compact&theme=radical" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mremboski&show_icons=true&theme=radical)
 
 ---
 
-## 🖥️ Projetos em destaque
-
-- [📊 Análise de Dados com Python e Pandas](https://github.com/MichelRemboski/projeto-analise-dados)
-- [💻 Sistema CRUD com Node.js e MongoDB](https://github.com/MichelRemboski/crud-node-mongo)
-- [🌐 Front-end responsivo com React + Tailwind](https://github.com/MichelRemboski/react-tailwind-site)
-
----
 
 ## 📫 Contato
 
-- ✉️ Email: **michel@email.com**
-- 💼 LinkedIn: [linkedin.com/in/michelremboski](https://linkedin.com/in/michelremboski)
-- 🌐 Portfólio: [https://meusite.com](https://meusite.com)
+- ✉️ Email: **michelrdev@gmail.com**
+- 💼 LinkedIn: **[linkedin.com/in/michelremboski](https://linkedin.com/in/michel-remboski-0a8890229)**
+- 🌐 Portfólio: **EM CONSTRUÇÃO**
 
 ---
 
 ## ⚡ Curiosidades
+- 🥋 Paixonado por Jiu-Jitsu
 - 🎓 Estudante dedicado de tecnologia e finanças
 - 🧩 Adoro resolver problemas lógicos e criar soluções eficientes
 - 📚 Estou sempre aprendendo algo novo em Python e web
 
 ---
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,50:302b63,100:24243e&height=150&section=footer"/>
