@@ -26,10 +26,11 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
 
 <div align="center">
   <a href="https://github.com/mremboski">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mremboski&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mremboski&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mremboski&layout=compact&langs_count=6&theme=radical&count_weight=0.05&size_weight=0.05&hide=powershell,batchfile,shell" />
   </a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mremboski&hide_progress=true&theme=radical"/>
 </div>
+
 
 
 ### 💻 Linguagens e Frameworks
