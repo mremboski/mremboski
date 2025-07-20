@@ -25,9 +25,9 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
 ## 📊 GitHub Stats
 
 <a href="https://github.com/mremboski">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mremboski&show_icons=true&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mremboski&show_icons=true&theme=radical" style="max-width: 100%;">
+<img height="180em align="center" src="https://github-readme-stats.vercel.app/api?username=mremboski&show_icons=true&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mremboski&show_icons=true&theme=radical" style="max-width: 100%;">
 </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mremboski&hide_progress=true&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mremboski&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true](https://github-readme-stats.vercel.app/api?username=mremboski&show_icons=true&theme=radical)" style="max-width: 100%;">
+  <img height="180em align="center " src="https://github-readme-stats.vercel.app/api/top-langs/?username=mremboski&hide_progress=true&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mremboski&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true](https://github-readme-stats.vercel.app/api?username=mremboski&show_icons=true&theme=radical)" style="max-width: 100%;">
 
 ### 💻 Linguagens e Frameworks
 
