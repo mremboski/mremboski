@@ -12,7 +12,7 @@ Olá! Me chamo **Michel Doro Remboski** e sou estudante de **Análise e Desenvol
 Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dados**.
 
 <ul dir="auto">
-<li>🧠 Estudante de Análise e Desenvolvimento de Sistemas</li>]
+<li>🧠 Estudante de Análise e Desenvolvimento de Sistemas</li>
 <li>🐍 Estudando Python, Pandas e Django para backend e anãlise de dados</li>
 <li>📚 Também possuo conhecimento **front-end** usando **React + Tailwind CSS**.</li>
 <li>🎯 Meu foco principal está no mercado financeiro, automação, APIs e banco de dados.
