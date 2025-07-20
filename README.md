@@ -22,27 +22,17 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
 
 ---
 
-## 🚀 Tecnologias que utilizo
-
 ### 💻 Linguagens e Frameworks
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,tailwind,react,flutter&perline=10)](https://skillicons.dev)
 
 ### 🧠 Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongobd)](https://skillicons.dev)
 
 ### ⚙️ Ferramentas e Versionamento
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white)
 
----
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,git,github,flutter&perline=10)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
@@ -50,8 +40,7 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
 
 ---
 
-
-## 📫 Contato
+## 📫 Contatos
 
 - ✉️ Email: **michelrdev@gmail.com**
 - 💼 LinkedIn: **[linkedin.com/in/michelremboski](https://linkedin.com/in/michel-remboski-0a8890229)**
