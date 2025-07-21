@@ -14,7 +14,7 @@ Sou apaixonado por tecnologia, especialmente por **Python** e **análise de dado
 <ul dir="auto">
 <li>🧠 Estudante de Análise e Desenvolvimento de Sistemas</li>
 <li>🐍 Estudando Python, Pandas e Django para backend e anãlise de dados</li>
-<li>📚 Também possuo conhecimento **front-end** usando **React + Tailwind CSS**.</li>
+<li>📚 Também possuo conhecimento front-end usando React + Tailwind CSS.</li>
 <li>🎯 Meu foco principal está no mercado financeiro, automação, APIs e banco de dados.
 <li>💼 Chaveiro em transição de carreira para a tecnologia</li>
 <li>🌍 Buscando aplicar meus conhecimentos em projetos reais e contribuir com soluções de impacto positivo.</li>
